@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://jh0105123.github.io/syna-start"
+baseurl = "https://jh0105123.github.io/syna-start/"
 languageCode = "en-us"
 title = "Okkur - Syna"
 theme = "syna"
