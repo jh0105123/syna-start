@@ -5,6 +5,8 @@ title = "Okkur - Syna"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+ignorefiles = [ "content/dev/.*" ]
 publishDir="docs"
 
 # Google Analytics tracking
@@ -70,6 +72,16 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.main]]
+  url = "/docs"
+  name = "Docs"
+  weight = 30
+
+[[menu.main]]
+  url = "/fragments"
+  name = "Fragments"
+  weight = 20
+
+[[menu.main]]
   url = "#contact"
   name = "Contact"
   weight = 30
@@ -110,3 +122,7 @@ lastmod = ["lastmod", ":git", "date"]
   name = "linkedin"
   pre = "fab fa-linkedin-in"
   url = "#"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+

@@ -3,26 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jh0105123.github.io/syna-start/about/</loc>
+    <loc>/docs/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/fragments/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/events/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/global-variables/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/image-fallthrough/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/supported-colors/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/development/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/fragments-implementation/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/deployment/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/404/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/config/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/content/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/copyright/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/editor/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/embed/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/footer/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/graph/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/header/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/hero/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/item/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/items/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/list/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/member/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/nav/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/pricing/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/react-portal/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/search/</loc>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/stripe/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/table/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/toc/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
     <lastmod>2018-05-31T16:55:04+04:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jh0105123.github.io/syna-start/</loc>
-    <lastmod>2018-06-27T14:06:09+04:30</lastmod>
+    <loc>/docs/</loc>
   </url>
   
   <url>
-    <loc>https://jh0105123.github.io/syna-start/</loc>
-    <lastmod>2018-06-27T14:06:09+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jh0105123.github.io/syna-start/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jh0105123.github.io/syna-start/tags/</loc>
+    <loc>/fragments/</loc>
   </url>
   
 </urlset>
